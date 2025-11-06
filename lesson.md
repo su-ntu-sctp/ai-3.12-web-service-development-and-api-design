@@ -1,7 +1,7 @@
 # Lesson: Web Service Development and API Design
 
 ## Lesson Overview
-This lesson builds upon the foundational REST API concepts from the previous lesson and teaches students how to implement complete CRUD (Create, Read, Update, Delete) operations for managing resources. Students will learn the differences between controller annotations, handle HTTP request/response properly using ResponseEntity, implement custom exception handling, and use Lombok to reduce boilerplate code. By working through a practical Customer Resource Management (CRM) example, students will gain hands-on experience building production-ready REST APIs that follow industry best practices for status codes, error handling, and code organization.
+This lesson builds upon the foundational REST API concepts from the previous lesson and teaches students how to implement complete CRUD (Create,Read,Update,Delete) operations for managing resources. Students will learn the differences between controller annotations, handle HTTP request/response properly using ResponseEntity, implement custom exception handling, and use Lombok to reduce boilerplate code. By working through a practical Customer Resource Management (CRM) example, students will gain hands-on experience building production-ready REST APIs that follow industry best practices for status codes, error handling, and code organization.
 
 ---
 
